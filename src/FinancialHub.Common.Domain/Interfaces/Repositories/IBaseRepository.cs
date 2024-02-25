@@ -1,6 +1,6 @@
-﻿using FinancialHub.Common.Entities;
+﻿using FinancialHub.Common.Domain.Entities;
 
-namespace FinancialHub.Common.Interfaces.Repositories
+namespace FinancialHub.Common.Domain.Interfaces.Repositories
 {
     /// <summary>
     /// Base repository with basic CRUD methods

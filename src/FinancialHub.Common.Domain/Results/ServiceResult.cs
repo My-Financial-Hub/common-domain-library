@@ -1,6 +1,6 @@
-﻿using FinancialHub.Common.Results.Errors;
+﻿using FinancialHub.Common.Domain.Results.Errors;
 
-namespace FinancialHub.Common.Results
+namespace FinancialHub.Common.Domain.Results
 {
     public class ServiceResult<T>
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FinancialHub.Common.Results.Errors
+namespace FinancialHub.Common.Domain.Results.Errors
 {
     public class ServiceError
     {

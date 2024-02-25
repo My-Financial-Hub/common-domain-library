@@ -1,7 +1,7 @@
 ﻿using Bogus;
-using FinancialHub.Common.Entities;
+using FinancialHub.Common.Domain.Entities;
 
-namespace FinancialHub.Common.Tests.Builders.Entities
+namespace FinancialHub.Common.Domain.Tests.Builders.Entities
 {
     public abstract class BaseEntityBuilder<T> : Faker<T>
         where T : BaseEntity

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace FinancialHub.Common.Entities
+namespace FinancialHub.Common.Domain.Entities
 {
     public abstract class BaseEntity
     {
